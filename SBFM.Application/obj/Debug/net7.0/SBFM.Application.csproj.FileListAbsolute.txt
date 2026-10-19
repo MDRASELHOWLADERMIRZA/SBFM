@@ -1,0 +1,15 @@
+E:\Practice\SBFM\SBFM\SBFM.Application\bin\Debug\net7.0\SBFM.Application.deps.json
+E:\Practice\SBFM\SBFM\SBFM.Application\bin\Debug\net7.0\SBFM.Application.dll
+E:\Practice\SBFM\SBFM\SBFM.Application\bin\Debug\net7.0\SBFM.Application.pdb
+E:\Practice\SBFM\SBFM\SBFM.Application\bin\Debug\net7.0\SBFM.Domain.dll
+E:\Practice\SBFM\SBFM\SBFM.Application\bin\Debug\net7.0\SBFM.Domain.pdb
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.csproj.AssemblyReference.cache
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.AssemblyInfoInputs.cache
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.AssemblyInfo.cs
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.csproj.CoreCompileInputs.cache
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.csproj.CopyComplete
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.dll
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\refint\SBFM.Application.dll
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\SBFM.Application.pdb
+E:\Practice\SBFM\SBFM\SBFM.Application\obj\Debug\net7.0\ref\SBFM.Application.dll

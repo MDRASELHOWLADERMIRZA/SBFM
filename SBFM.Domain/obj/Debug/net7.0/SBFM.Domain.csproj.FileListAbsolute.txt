@@ -1,0 +1,11 @@
+E:\Practice\SBFM\SBFM\SBFM.Domain\bin\Debug\net7.0\SBFM.Domain.deps.json
+E:\Practice\SBFM\SBFM\SBFM.Domain\bin\Debug\net7.0\SBFM.Domain.dll
+E:\Practice\SBFM\SBFM\SBFM.Domain\bin\Debug\net7.0\SBFM.Domain.pdb
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\SBFM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\SBFM.Domain.AssemblyInfoInputs.cache
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\SBFM.Domain.AssemblyInfo.cs
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\SBFM.Domain.csproj.CoreCompileInputs.cache
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\SBFM.Domain.dll
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\refint\SBFM.Domain.dll
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\SBFM.Domain.pdb
+E:\Practice\SBFM\SBFM\SBFM.Domain\obj\Debug\net7.0\ref\SBFM.Domain.dll
